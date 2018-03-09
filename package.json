@@ -1,0 +1,7 @@
+{
+  "name": "cs-exercises",
+  "description": "Exercices from the most variate courses I take at my BsC in CS.",
+  "devDependencies": {
+    "xo": "0.20.3"
+  }
+}
