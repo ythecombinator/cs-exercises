@@ -3,7 +3,7 @@
 // 1) Parsing time would be much easier and well-done with
 // something like moment.js.
 
-const {askUser, handleError} = require('./helpers');
+const {askUser, handleError} = require('../helpers');
 
 const questions = ['Que horas são? (ex.: 14 horas e 37 minutos)'];
 

@@ -1,4 +1,4 @@
-const {askUser, handleError} = require('./helpers');
+const {askUser, handleError} = require('../helpers');
 
 const questions = ['Qual a parte com letras? (ex.: ABCD)', 'Qual a parte com números? (ex.: 999)'];
 

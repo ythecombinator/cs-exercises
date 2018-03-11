@@ -1,4 +1,4 @@
-const {askUser, handleError} = require('./helpers');
+const {askUser, handleError} = require('../helpers');
 
 const questions = ['Qual o montante inicial? (R$)'];
 

@@ -1,4 +1,4 @@
-const {askUser, handleError} = require('./helpers');
+const {askUser, handleError} = require('../helpers');
 
 const questions = [1, 2, 3, 4].map(number => `Quanto você consumiu na sua ${number}° refeição? (Cal)`);
 

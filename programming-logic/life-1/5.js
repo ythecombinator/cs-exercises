@@ -1,4 +1,4 @@
-const {askUser, handleError} = require('./helpers');
+const {askUser, handleError} = require('../helpers');
 
 const questions = ['Quanto está a gasolina? (R$)', 'Qual o consumo médio do seu carro? (Km/L)', 'Qual é a distância a ser percorrida? (Km)'];
 
