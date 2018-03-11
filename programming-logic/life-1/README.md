@@ -1,3 +1,54 @@
+### Instructions
+
+#### JavaScript
+
+1.   Make sure you have [nodejs LTS](https://nodejs.org/en/download/) installed.
+
+1.   Clone this repo.
+
+      ```sh
+      git clone https://github.com/ythecombinator/cs-exercises
+      ```
+
+1.   Navigate to this directory.
+
+      ```sh
+      cd programming-logic/life-1
+      ```
+
+1.   Run the desired solutin.
+
+      ```sh
+      node <questionNumber>
+
+      # e.g.
+      node 7.js
+      ```
+
+#### C
+
+1.   Clone this repo.
+
+1.   `cd` into this directory.
+
+1.   Compile the desired solution with the C distribution of your choice.
+
+      ```sh
+      gcc -o <questionNumber> <questionNumber>.c
+
+      # e.g.
+      gcc -o 6 6.c
+      ```
+
+1.   Run the generated binary:
+
+      ```sh
+      ./<questionNumber>
+
+      # e.g.
+      ./6
+      ```
+
 ### Exercises
 
 1.   Write a program that reads an input containing a specific hour in a day (e.g. 14 hours and 37 minutes) and tell the user how many minutes have passed from the beginning of the day to that hour. Then write a function to receive the hours and minutes and return the minutes.
