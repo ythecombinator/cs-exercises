@@ -13,3 +13,35 @@
 1.   In a party, everyone greet each other once. Write a program in C that reads the amount of people in the party and displays the amount of greetings.
 
 1.   Write a program that reads three letters and four digits separately and shows them on the screen in the form of a Brazilian car plate (e.g. AAA-9999).
+
+### Solutions
+
+Here are screenshots of the working solutions.
+
+#### 1
+
+![Question 1](1.png)
+
+#### 2
+
+![Question 2](2.png)
+
+#### 3
+
+![Question 3](3.png)
+
+#### 4
+
+![Question 4](4.png)
+
+#### 5
+
+![Question 5](5.png)
+
+#### 6
+
+![Question 6](6.png)
+
+#### 7
+
+![Question 7](7.png)
