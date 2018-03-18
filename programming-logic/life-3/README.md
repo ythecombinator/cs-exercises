@@ -30,13 +30,13 @@
 
 ### Exercises
 
-1.  Write a program that receives four numbers and tells the user how many of them are bigger than 10 and how many are smaller or equal.
+2.  Write a program that receives four numbers and tells the user how many of them are bigger than 10 and how many are smaller or equal.
 
-1.  Write a JavaScript program that displays one question and four alternatives (a, b, c, d)–of which only one is correct. The program should receive an input letter from the user, corresponding to their answer, and inform if the answer is correct, incorrect or if the option chosen is invalid.
+3.  Write a JavaScript program that displays one question and four alternatives (a, b, c, d)–of which only one is correct. The program should receive an input letter from the user, corresponding to their answer, and inform if the answer is correct, incorrect or if the option chosen is invalid.
 
-1.  Write a program that receives the month (ranged from `1` to `12`) in 2015 and tells the user how many days it lasted.
+4.  Write a program that receives the month (ranged from `1` to `12`) in 2015 and tells the user how many days it lasted.
 
-1.  You should write a simple calculator which handles the four basic arithmetic operations. The program should read the operation, the first operand and the second operand, displaying the then the result.
+5.  You should write a simple calculator which handles the four basic arithmetic operations. The program should read the operation, the first operand and the second operand, displaying the then the result.
 
 ### Solutions
 
